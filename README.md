@@ -1,6 +1,6 @@
 # Wind Forecast Webscraping
 
-    As a beach volleyball player, I often need to know what the wind forecast will be. SailFlow.com is easily the best wind foreacast service I have used.  
+As a beach volleyball player, I often need to know what the wind forecast will be. SailFlow.com is easily the best wind foreacast service I have used.  
 Since I check it frequently--opening the page, scrolling through the week, evaluating the wind speeds, and remembering the conditions--and the process of doing so
 ends up taking a lot of time, I want to automate the process.  As SailFlow does not offer an API, the best option is to resort
 to webscraping. This application is a command line script that uses Selenium for Python to scrape web data from SailFlow and print out
