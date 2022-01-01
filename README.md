@@ -30,7 +30,7 @@ average winds more than 25mph or gusts greater than 25mph are considered unplaya
 
 ## Usage
 
--Run 'forecaster.py' in a terminal.  A new Chrome window will briefly open and close before the output is displayed in the terminal.  
+- Run 'forecaster.py' in a terminal.  A new Chrome window will briefly open and close before the output is displayed in the terminal.  
 
 ## Future Improvements
 
